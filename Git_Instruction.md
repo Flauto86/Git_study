@@ -78,13 +78,15 @@ git config --global user.email ваша почта@example.com
 Для просмотра истории изменений следует воспользоваться командой `git log`.
 Эта команда выводит историю изменений в хронологическом порядке.
 
-```
-commit 70447a2ee1dde63c66ceaefc43601e42aea30ce6 (HEAD -> master)
-Author: Fedor Romanov <flauto86@gmail.com>
-Date:   Mon Apr 24 14:43:43 2023 +0300
+> commit 70447a2ee1dde63c66ceaefc43601e42aea30ce6 (HEAD -> master)
+>
+> Author: Fedor Romanov <flauto86@gmail.com>
+>
+> Date:   Mon Apr 24 14:43:43 2023 +0300
+>
+>    Добавили раздел 15. Комбинированные команды
 
-    Добавили раздел 15. Комбинированные команды
-```
+
 * commit с уникальным хэш-кодом фиксации (неизменяемый идентификатор)
 * автор фиксации
 * дата и время фиксации (добавления коммита)

@@ -18,6 +18,11 @@ git config --global user.email ваша почта@example.com
 Загружаем последнюю версию Visual Studio Code с сайта https://code.visualstudio.com/Download
 Устанавливаем с настройками по умолчанию.
 
+## 5. Запуск терминала
+Существует несколько способов для запуска перминала:
+1. Вид -> Терминал (View -> Terminal)
+2. Горячие клавиши: CTRL+`
+3. Терминал -> Создать терминал (Terminal -> New Terminal)
 
 
 
